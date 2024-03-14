@@ -1,0 +1,18 @@
+table{
+    text-align: center; 
+    width: 100%;
+}
+
+.judultable {
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.headtable {
+    background-color: cyan;
+}
+
+.bodytable {
+    background-color: snow;
+    padding: 3px;
+}
